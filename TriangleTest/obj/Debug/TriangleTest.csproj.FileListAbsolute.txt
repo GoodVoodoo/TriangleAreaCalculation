@@ -1,0 +1,7 @@
+E:\VS_General_Projects\Triangle\TriangleTest\bin\Debug\TriangleTest.dll
+E:\VS_General_Projects\Triangle\TriangleTest\bin\Debug\TriangleTest.pdb
+E:\VS_General_Projects\Triangle\TriangleTest\bin\Debug\Triangle.exe
+E:\VS_General_Projects\Triangle\TriangleTest\bin\Debug\Triangle.pdb
+E:\VS_General_Projects\Triangle\TriangleTest\obj\Debug\TriangleTest.csprojResolveAssemblyReference.cache
+E:\VS_General_Projects\Triangle\TriangleTest\obj\Debug\TriangleTest.dll
+E:\VS_General_Projects\Triangle\TriangleTest\obj\Debug\TriangleTest.pdb
